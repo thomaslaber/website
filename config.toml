@@ -1,0 +1,4 @@
+baseURL = ""
+languageCode = "de"
+title = "TL Repo"
+theme = "ananke"
