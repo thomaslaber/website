@@ -1,9 +1,10 @@
 ---
 title: "Linear Regression"
-output: html_notebook
-editor_options: 
-  chunk_output_type: inline
+date: 2018-04-02
+tags: ["R", "regression"]
+draft: false
 ---
+
 
 Source <https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/>
 
@@ -13,10 +14,10 @@ The best way to understand linear regression is to relive this experience of chi
 
 In this equation:
 
-    Y - Dependent Variable
-    a - Slope
-    X - Independent variable
-    b - Intercept
+>    Y - Dependent Variable
+>    a - Slope
+>    X - Independent variable
+>    b - Intercept
 
 These coefficients a and b are derived based on minimizing the sum of squared difference of distance between data points and regression line.
 
@@ -26,7 +27,7 @@ Now using this equation, we can find the weight, knowing the height of a person.
 
 Linear Regression is of mainly two types: Simple Linear Regression and Multiple Linear Regression. Simple Linear Regression is characterized by one independent variable. And, Multiple Linear Regression(as the name suggests) is characterized by multiple (more than 1) independent variables. While finding best fit line, you can fit a polynomial or curvilinear regression. And these are known as polynomial or curvilinear regression.
 
-##R Code
+## R Code
 
 ```{r}
 #Load Train and Test datasets
@@ -42,23 +43,23 @@ summary(linear)
 predicted= predict(linear,x_test) 
 ```
 
-##R Code applied
+## R Code applied
 
 Mean squared error:
 
-$MSE = \displaystyle\frac{1}{n}\sum_{t=1}^{n}res_t^2$  
+$$MSE = \displaystyle\frac{1}{n}\sum_{t=1}^{n}res_t^2$$ 
 
 Root mean squared error:
 
-$RMSE = \displaystyle\sqrt{\frac{1}{n}\sum_{t=1}^{n}res_t^2}$
+$$RMSE = \displaystyle\sqrt{\frac{1}{n}\sum_{t=1}^{n}res_t^2}$$
 
 Mean absolute error:
 
-$MAE = \displaystyle\frac{1}{n}\sum_{t=1}^{n}|res_t|$ 
+$$MAE = \displaystyle\frac{1}{n}\sum_{t=1}^{n}|res_t|$$
 
 Mean absolute percentage error:
 
-$MAPE = \displaystyle\frac{100\%}{n}\sum_{t=1}^{n}\left |\frac{res_t}{y_t}\right|$
+$$MAPE = \displaystyle\frac{100\%}{n}\sum_{t=1}^{n}\left |\frac{res_t}{y_t}\right|$$
 
 ```{r}
 # install.packages("tidyverse")
@@ -69,8 +70,6 @@ titanic_train = titanic_train %>%
   mutate_at(.vars =  c("Sex", "Survived", "Pclass", "Embarked"),
             .funs = as.factor)
 str(titanic_train)
-
-
 
 x_train <- titanic_train
 y_train <- titanic_train$Survived
