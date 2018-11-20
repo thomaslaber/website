@@ -7,5 +7,5 @@ h1 {
 }
 
 .intro {
-	transform: translateY();
+	transform: none !important;
 }
