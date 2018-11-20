@@ -3,9 +3,12 @@ title: "The Happiness Hypothesis"
 output: html_notebook
 editor_options: 
   chunk_output_type: inline
+date: 2018-11-20
+tags: ["anekdote", "amazon"]
+draft: false
 ---
 
-##The Divided Self
+## The Divided Self
 
 Human thinking depends on metaphor. We understand new or complex things in relation to things we already know. For example, it's hard to think about life in general, but once you apply the metaphor "life is a journey," the metaphor guides you to some conclusions: You should learn the terrain, pick a direction, find some good traveling companions, and enjoy the trip, because there may be nothing at the end of the road. It's also hard to think about the mind, but once you pick a metaphor it will guide your thinking.
 
@@ -15,13 +18,13 @@ Buddha, for example, compared the mind to a wild elephant:
 
 To understand most important ideas in psychology, you need to understand how the mind is divided into parts that sometimes conflict. We assume that there is one person in each body, but in some ways we are each more like a committee whose members have been thrown together to do a job, but who often find themselves working at cross purposes. Our minds are divided in four ways. The fourth is the most important, for it corresponds most closely to the rider and the elephant; but the first three also contribute to our experiences of temptation, weakness, and internal conflict.
 
-###1. First Division: Mind vs. Body
+### 1. First Division: Mind vs. Body
 
 We sometimes say that the body has a mind of its own, but the French philosopher Michel de Montaigne went a step further and suggested that each part of the body has its own emotions and its own agenda.
 
 Montaigne also noted the ways in which our facial expressions betray our secret thoughts; our hair stands on end; our hearts race; our tongues fail to speak; and our bowels and anal sphincters undergo "dilations and contractions proper to [themselves], independent of our wishes or even opposed to them."
 
-###2. Second Division: Left vs. Right
+### 2. Second Division: Left vs. Right
 
 The human brain has two separate hemispheres joined by a large bundle of nerves, the corpus callosum.
 
@@ -29,7 +32,7 @@ The corpus callosum is the largest single bundle of nerves in the entire body, s
 
 The brain divides its processing of the world into its two hemispheres-left and right. The left hemisphere takes in information from the right half of the world (that is, it receives nerve transmissions from the right arm and leg, the right ear, and the left half of each retina, which receives light from the right half of the visual field) and sends out commands to move the limbs on the right side of the body. The right hemisphere is in this respect the left's mirror image, taking in information from the left half of the world and controlling movement on the left side of the body. Nobody knows why the signals cross over in this way in all vertebrates; they just do. But in other respects, the two hemispheres are specialized for different tasks. The left hemisphere is specialized for language processing and analytical tasks. In visual tasks, it is better at noticing details. The right hemisphere is better at processing patterns in space, including that all-important pattern, the face.
 
-###3. Third Division: New vs. Old
+### 3. Third Division: New vs. Old
 
 The brain started off with just three rooms, or clumps of neurons: a hindbrain (connected to the spinal column), a midbrain, and a forebrain (connected to the sensory organs at the front of the animal). Over time, as more complex bodies and behaviors evolved, the brain kept building out the front, away from the spinal column, expanding the forebrain more than any other part. The forebrain of the earliest mammals developed a new outer shell, which included the hypothalamus (specialized to coordinate basic drives and motivations), the hippocampus (specialized for memory), and the amygdala (specialized for emotional learning and responding). These structures are sometimes referred to as the limbic system (from Latin limbus, "border" or "margin") because they wrap around the rest of the brain, forming a border.
 
@@ -43,7 +46,7 @@ There is, however, a flaw in the Promethean script: It assumes that reason was i
 
 Human rationality depends critically on sophisticated emotionality. It is only because our emotional brains works so well that our reasoning can work at all. The metaphor of a rider on an elephant fits Damasio's findings more closely: Reason and emotion must both work together to create intelligent behavior, but emotion (a major part of the elephant) does most of the work. When the neocortex came along, it made the rider possible, but it made the elephant much smarter, too.
 
-###4. Fourth Division: Controlled vs. Automatic
+### 4. Fourth Division: Controlled vs. Automatic
 
 After its long infatuation with information processing models and computer metaphors, psychologists began to realize that there are really two processing systems at work in the mind at all times: controlled processes and automatic processes.
 
@@ -61,13 +64,13 @@ But the behaviorists were not exactly right about people. The controlled system 
 
 In sum, the rider is an advisor or servant; not a king, president, or charioteer with a firm grip on the reins. The elephant, in contrast, is everything else. The elephant includes the gut feelings, visceral reactions, emotions, and intuitions that comprise much of the automatic system. The elephant and the rider each have their own intelligence, and when they work together well they enable the unique brilliance of human beings. But they don't always work together well. Here are three quirks of daily life that illustrate the sometimes complex relationship between the rider and the elephant.
 
-###Failures Of Self Control
+### Failures Of Self Control
 
 An emotionally intelligent person has a skilled rider who knows how to distract and coax the elephant without having to engage in a direct contest of wills.
 
 It's hard for the controlled system to beat the automatic system by willpower alone; like a tired muscle, the former soon wears down and caves in, but the latter runs automatically, effortlessly, and endlessly. Once you understand the power of stimulus control, you can use it to your advantage by changing the stimuli in your environment and avoiding undesirable ones; or, if that's not possible, by filling your consciousness with thoughts about their less tempting aspects.
 
-###Mental Intrusions
+### Mental Intrusions
 
 Whenever I am on a cliff, a rooftop, or a high balcony, the imp of the perverse whispers in my ear, "Jump." It's not a command, it's just a word that pops into my consciousness. When I'm at a dinner party sitting next to someone I respect, the imp works hard to suggest the most inappropriate things I could possibly say. Who or what is the imp? Dan Wegner, one of the most perverse and creative social psychologists, has dragged the imp into the lab and made it confess to being an aspect of automatic processing.
 
@@ -75,7 +78,7 @@ In Wegner's studies, participants are asked to try hard not to think about somet
 
 These are not commands, just ideas that pop into my head. Freud based much of his theory of psychoanalysis on such mental intrusions and free associations, and he found they often have sexual or aggressive content. But Wegner's research offers a simpler and more innocent explanation: Automatic processes generate thousands of thoughts and images every day, often through random association. The ones that get stuck are the ones that particularly shock us, the ones we try to suppress or deny. The reason we suppress them is not that we know, deep down, that they're true (although some may be), but that they are scary or shameful. Yet once we have tried and failed to suppress them, they can become the sorts of obsessive thoughts that make us believe in Freudian notions of a dark and evil unconscious mind.
 
-###The Difficulty Of Winning An Argument
+### The Difficulty Of Winning An Argument
 
 Moral judgment is like aesthetic judgment. When you see a painting, you usually know instantly and automatically whether you like it. If someone asks you to explain your judgment, you confabulate. You don't really know why you think something is beautiful, but your interpreter module (the rider) is skilled at making up reasons. Moral arguments are much the same: Two people feel strongly about an issue, their feelings come first, and their reasons are invented on the fly, to throw at each other. When you refute a person's argument, does she generally change her mind and agree with you? Of course not, because the argument you defeated was not the cause of her position; it was made up after the judgment was already made.
 
@@ -91,13 +94,13 @@ Because we can see only one little corner of the mind's vast operation, we are s
 
 The most important idea in pop psychology is contained in the two quotations above: Events in the world affect us only through our interpretations of them, so if we can control our interpretations, we can control our world.
 
-###The Like-O-Meter
+### The Like-O-Meter
 
 The most important words in the elephant's language are "like" and "dislike," or "approach" and "withdraw." Even the simplest animal must make decisions at every moment: Left or right? Go or stop? Eat or don't eat? Animals with brains complex enough to have emotions make these decisions effortlessly and automatically by having what is sometimes called a "like-o-meter" running in their heads at all times. If a monkey tasting a new fruit feels a sweet sensation, its like-o-meter registers "I like it"; the monkey feels pleasure and bites right in. If the taste is bitter, a flash of displeasure discourages further eating. There's no need for a weighing of pros and cons, or for a reasoning system. Just flashes of pleasure and displeasure.
 
 We humans have a like-o-meter too, and it's always running. Its influence is subtle, but careful experiments show that you have a like-dislike reaction to everything you are experiencing, even if you're not aware of the experience. For example, suppose you are a participant in an experiment on what is known as "affective priming." You sit in front of a computer screen and stare at a dot in the center. Every few seconds, a word is flashed over the dot. All you have to do is tap a key with your left hand if the word means something good or likable (such as garden, hope, fun), or tap a key with your right hand if the word means something bad or dislikable (death, tyranny, boredom). It seems easy, but for some reason you find yourself hesitating for a split second on some of the words. Unbeknownst to you, the computer is also flashing up another word, right on the dot, just for a few hundredths of a second before putting up the target word you're rating. Though these words are presented subliminally (below the level of your awareness), your intuitive system is so fast that it reads and reacts to them with a like-o-meter rating. If the subliminal word is fear, it would register negative on your like-o-meter, making you feel a tiny flash of displeasure; and then, a split second later, when you see the word boredom, you would more quickly say that boredom is bad. Your negative evaluation of boredom has been facilitated, or "primed," by your tiny flash of negativity toward fear. If, however, the word following fear is garden, you would take longer to say that garden is good, because of the time it takes for your like-o-meter to shift from bad to good.
 
-###Negativity Bias
+### Negativity Bias
 
 Clinical psychologists sometimes say that two kinds of people seek therapy: those who need tightening, and those who need loosening. But for every patient seeking help in becoming more organized, self-controlled, and responsible about her future, there is a waiting room full of people hoping to loosen up, lighten up, and worry less about the stupid things they said at yesterday's staff meeting or about the rejection they are sure will follow tomorrow's lunch date. For most people, the elephant sees too many things as bad and not enough as good.
 
@@ -113,7 +116,7 @@ The elephant reacts before the rider even sees the snake on the path. Although y
 
 One final point about the amygdala: Not only does it reach down to the brainstem to trigger a response to danger but it reaches up to the frontal cortex to change your thinking. It shifts the entire brain over to a withdrawal orientation. There is a two-way street between emotions and conscious thoughts: Thoughts can cause emotions (as when you reflect on a foolish thing you said), but emotions can also cause thoughts, primarily by raising mental filters that bias subsequent information processing. A flash of fear makes you extra vigilant for additional threats; you look at the world through a filter that interprets ambiguous events as possible dangers. A flash of anger toward someone raises a filter through which you see everything the offending person says or does as a further insult or transgression. Feelings of sadness blind you to all pleasures and opportunities.
 
-###The Cortical Lottery
+### The Cortical Lottery
 
 When it comes to explaining personality, it's always true that nature and nurture work together. But it's also true that nature plays a bigger role than most people realize. Consider the identical twin sisters Daphne and Barbara.
 
@@ -121,7 +124,7 @@ Daphne and Barbara came to be known as the "giggle twins." Both have sunny perso
 
 A person's average or typical level of happiness is that person's "affective style." ("Affect" refers to the felt or experienced part of emotion.) Your affective style reflects the everyday balance of power between your approach system and your withdrawal system, and this balance can be read right from your forehead. It has long been known from studies of brainwaves that most people show an asymmetry: more activity either in the right frontal cortex or in the left frontal cortex. In the late 1980s, Richard Davidson at the University of Wisconsin discovered that these asymmetries correlated with a person's general tendencies to experience positive and negative emotions. People showing more of a certain kind of brainwave coming through the left side of the forehead reported feeling more happiness in their daily lives and less fear, anxiety, and shame than people exhibiting higher activity on the right side. Later research showed that these cortical "lefties" are less subject to depression and recover more quickly from negative experiences.
 
-###Scan Your Brain
+### Scan Your Brain
 
 Which set of statements is more true of you?
 
@@ -141,11 +144,11 @@ Set B:
 
 People who endorse Set A over Set B have a more approach-oriented style and, on average, show greater cortical activity on the left side of the forehead. People who endorse Set B have a more withdrawal-oriented style and, on average, show greater cortical activity on the right side.
 
-###How To Change Your Mind
+### How To Change Your Mind
 
 You can change your affective style too-but again, you can't do it by sheer force of will. You have to do something that will change your repertoire of available thoughts. Here are three of the best methods for doing so: meditation, cognitive therapy, and Prozac. All three are effective because they work on the elephant.
 
-####Meditation
+### #Meditation
 
 Suppose you read about a pill that you could take once a day to reduce anxiety and increase your contentment. Would you take it? Suppose further that the pill has a great variety of side effects, all of them good: increased self-esteem, empathy, and trust; it even improves memory. Suppose, finally, that the pill is all natural and costs nothing. Now would you take it?
 
@@ -159,7 +162,7 @@ For Buddha, attachments are like a game of roulette in which someone else spins 
 
 The discovery is that meditation tames and calms the elephant. Meditation done every day for several months can help you reduce substantially the frequency of fearful, negative, and grasping thoughts, thereby improving your affective style. As Buddha said: "When a man knows the solitude of silence, and feels the joy of quietness, he is then free from fear and sin."
 
-####Cognitive Therapy
+### #Cognitive Therapy
 
 Meditation is a characteristically Eastern solution to the problems of life. Even before Buddha, the Chinese philosopher Lao Tzu had said that the road to wisdom runs through calm inaction, desireless waiting. Western approaches to problems more typically involve pulling out a tool box and trying to fix what's broken. The toolbox was thoroughly modernized in the 1960s by Aaron Beck.
 
@@ -175,7 +178,7 @@ Unlike Freud, Beck tested his theories in controlled experiments. People who und
 
 I don't mean to suggest that cognitive behavioral therapy is the only psychotherapy that works. Most forms of psychotherapy work to some degree, and in some studies they all seem to work equally well. It comes down to a question of fit: Some people respond better to one therapy than another, and some psychological disorders are more effectively treated by one therapy than another. If you have frequent automatic negative thoughts about yourself, your world, or your future, and if these thoughts contribute to chronic feelings of anxiety or despair, then you might find a good fit with cognitive behavioral therapy.
 
-####Prozac
+### #Prozac
 
 Prozac is controversial for at least two reasons. First, it is a shortcut. In most studies, Prozac turns out to be just about as effective as cognitive therapy-sometimes a little more, sometimes a little less-but it's so much easier than therapy. No daily homework or difficult new skills; no weekly therapy appointment. If you believe in the Protestant work ethic and the maxim "No pain, no gain," then you might be disturbed by Prozac. Second, Prozac does more than just relieve symptoms; it sometimes changes personality.
 
@@ -183,7 +186,7 @@ It's easy for those who did well in the cortical lottery to preach about the imp
 
 Life is what we deem it, and our lives are the creations of our minds. But these claims are not helpful until augmented by a theory of the divided self (such as the rider and the elephant) and an understanding of negativity bias and affective style. Once you know why change is so hard, you can drop the brute force method and take a more psychologically sophisticated approach to self-improvement. Buddha got it exactly right: You need a method for taming the elephant, for changing your mind gradually. Meditation, cognitive therapy, and Prozac are three effective means of doing so. Because each will be effective for some people and not for others, I believe that all three should be readily available and widely publicized. Life itself is but what you deem it, and you can-through meditation, cognitive therapy, and Prozac-redeem yourself.
 
-###Ultrasociality
+### Ultrasociality
 
 > [quote]Zigong asked: "Is there any single word that could guide one's entire life?" The master said: "Should it not be reciprocity? What you do not wish for yourself, do not do to others." -ANALECTS OF CONFUCIUS[/quote]
 
@@ -193,7 +196,7 @@ Animals that live in large peaceful societies seem to violate the laws of evolut
 
 Because nearly all animals that live in cooperative groups live in groups of close relatives, most altruism in the animal kingdom reflects the simple axiom that shared genes equals shared interests. Here's where the ancestors of bees, termites, and mole rats took the common mechanism of kin altruism, which makes many species sociable, and parlayed it6 into the foundation of their uncommon ultrasociality: They are all siblings.
 
-##Reciprocity
+## Reciprocity
 
 Most interactions among animals (other than close kin) are zero-sum games: One animal's gain is the other's loss. But life is full of situations in which cooperation would expand the pie to be shared if only a way could be found to cooperate without being exploited. Animals that hunt are particularly vulnerable to the variability of success: They may find far more food than they can eat in one day, and then find no food at all for three weeks. Animals that can trade their surplus on a day of plenty for a loan on a day of need are much more likely to survive the vagaries of chance. Vampire bats, for example, will regurgitate blood from a successful night of bloodsucking into the mouth of an unsuccessful and genetically unrelated peer. Such behavior seems to violate the spirit of Darwinian competition, except that the bats keep track of who has helped them in the past, and in return they share primarily with those bats. Like the Godfather, bats play tit for tat, and so do other social animals, particularly those that live in relatively small, stable groups where individuals can recognize each other as individuals.
 
@@ -203,7 +206,7 @@ Tit for tat appears to be built into human nature as a set of moral emotions tha
 
 Gratitude and vengefulness are big steps on the road that led to human ultrasociality, and it's important to realize that they are two sides of one coin. It would be hard to evolve one without the other. An individual who had gratitude without vengefulness would be an easy mark for exploitation, and a vengeful and ungrateful individual would quickly alienate all potential cooperative partners.
 
-###The Importance of Gossip
+### The Importance of Gossip
 
 When I said that people would beat the hell out of an ingrate who failed to repay an important favor, I left out a qualification. For a first offense, they'd probably just gossip. They'd ruin his reputation. Gossip is another key piece in the puzzle of how humans became ultrasocial. It might also be the reason we have such large heads.
 
@@ -213,15 +216,15 @@ Language allows small groups of people to bond quickly and to learn from each ot
 
 Gossip creates a non-zero-sum game because it costs us nothing to give each other information, yet we both benefit by receiving information.
 
-###Using Reciprocity
+### Using Reciprocity
 
 Reciprocity is an all-purpose relationship tonic. Used properly, it strengthens, lengthens, and rejuvenates social ties. It works so well in part because the elephant is a natural mimic.
 
-###The Importance of Appearence
+### The Importance of Appearence
 
 If life itself is but what you deem it, then why not focus your efforts on persuading others to believe that you are a virtuous and trustworthy cooperator? Thus Niccolo Machiavelli, whose name has become synonymous with the cunning and amoral use of power, wrote five hundred years ago that "the great majority of mankind are satisfied with appearances, as though they were realities, and are often more influenced by the things that seem than by those that are." The Machiavellian version of tit for tat, for example, is to do all you can to cultivate the reputation of a trustworthy yet vigilant partner, whatever the reality may be.
 
-###Finding your Inner Lawyer
+### Finding your Inner Lawyer
 
 In my studies of moral judgment, I have found that people are skilled at finding reasons to support their gut feelings: The rider acts like a lawyer whom the elephant has hired to represent it in the court of public opinion.
 
@@ -233,7 +236,7 @@ Most people gave no real evidence for their positions, and most made no effort t
 
 People who are told that they have performed poorly on a test of social intelligence think extra hard to find reasons to discount the test; people who are asked to read a study showing that one of their habits-such as drinking coffee-is unhealthy think extra hard to find flaws in the study, flaws that people who don't drink coffee don't notice. Over and over again, studies show that people set out on a cognitive mission to bring back reasons to support their preferred belief or action. And because we are usually successful in this mission, we end up with the illusion of objectivity. We really believe that our position is rationally and objectively justified.
 
-###How to Win at the Social Life Game
+### How to Win at the Social Life Game
 
 I don't want to blame everything on the lawyer. The lawyer is, after all, the rider-your conscious, reasoning self; and he is taking orders from the elephant-your automatic and unconscious self. The two are in cahoots to win at the game of life by playing Machiavellian tit for tat, and both are in denial about it.
 
@@ -243,7 +246,7 @@ We judge others by their behavior, but we think we have special information abou
 
 If the only effect of these rampant esteem-inflating biases was to make people feel good about themselves, they would not be a problem. In fact, evidence shows that people who hold pervasive positive illusions about themselves, their abilities, and their future prospects are mentally healthier, happier, and better liked than people who lack such illusions. But such biases can make people feel that they deserve more than they do, thereby setting the stage for endless disputes with other people who feel equally over-entitled.
 
-###Naive Realism
+### Naive Realism
 
 Emily Pronin at Princeton and Lee Ross at Stanford trace this resistance to a phenomenon they call "naive realism": Each of us thinks we see the world directly, as it really is. We further believe that the facts as we see them are there for all to see, therefore others should agree with us. If they don't agree, it follows either that they have not yet been exposed to the relevant facts or else that they are blinded by their interests and ideologies.
 
@@ -251,7 +254,7 @@ It just seems plain as day, to the naive realist, that everyone is influenced by
 
 If I could nominate one candidate for "biggest obstacle to world peace and social harmony," it would be naive realism because it is so easily ratcheted up from the individual to the group level: My group is right because we see things as they are. Those who disagree are obviously biased by their religion, their ideology, or their self-interest. Naive realism gives us a world full of good and evil, and this brings us to the most disturbing implication of the sages' advice about hypocrisy: Good and evil do not exist outside of our beliefs about them.
 
-###The Myth Of Pure Evil
+### The Myth Of Pure Evil
 
 In Evil: Inside Human Cruelty and Aggression, Baumeister examined evil from the perspective of both victim and perpetrator. When taking the perpetrator's perspective, he found that people who do things we see as evil, from spousal abuse all the way to genocide, rarely think they are doing anything wrong. They almost always see themselves as responding to attacks and provocations in ways that are justified. They often think that they themselves are victims.
 
@@ -265,7 +268,7 @@ In another unsettling conclusion, Baumeister found that violence and cruelty hav
 
 Threatened self-esteem accounts for a large portion of violence at the individual level, but to really get a mass atrocity going you need idealism-the belief that your violence is a means to a moral end. The major atrocities of the twentieth century were carried out largely either by men who thought they were creating a utopia or else by men who believed they were defending their homeland or tribe from attack. Idealism easily becomes dangerous because it brings with it, almost inevitably, the belief that the ends justify the means.
 
-###Finding The Great Way
+### Finding The Great Way
 
 In philosophy classes, I often came across the idea that the world is an illusion. I never really knew what that meant, although it sounded deep. But after two decades studying moral psychology, I think I finally get it. The anthropologist Clifford Geertz wrote that "man is an animal suspended in webs of significance that he himself has spun." That is, the world we live in is not really one made of rocks, trees, and physical objects; it is a world of insults, opportunities, status symbols, betrayals, saints, and sinners. All of these are human creations which, though real in their own way, are not real in the way that rocks and trees are real. These human creations are like fairies in J. M. Barrie's Peter Pan: They exist only if you believe in them. They are the Matrix (from the movie of that name); they are a consensual hallucination.
 
@@ -283,13 +286,13 @@ When you first catch sight of a fault in yourself, you'll likely hear frantic ar
 
 Finding fault with yourself is also the key to overcoming the hypocrisy and judgmentalism that damage so many valuable relationships.
 
-##The Pursuit of Happiness
+## The Pursuit of Happiness
 
 > [quote]Do not seek to have events happen as you want them to, but instead want them to happen as they do happen, and your life will go well. -EPICTETUS[/quote]
 
 Buddhism and Stoicism teach that striving for external goods, or to make the world conform to your wishes, is always a striving after wind. Happiness can only be found within, by breaking attachments to external things and cultivating an attitude of acceptance. (Stoics and Buddhists can have relationships, jobs, and possessions, but, to avoid becoming upset upon losing them, they must not be emotionally attached to them.) This idea is of course an extension of Marcus Aurelius' quote: life itself is but what you deem it, and your mental state determines how you deem things.
 
-###The Progress Principle
+### The Progress Principle
 
 The pleasure of getting what you want is often fleeting. You dream about getting a promotion, being accepted into a prestigious school, or finishing a big project. You work every waking hour, perhaps imagining how happy you'd be if you could just achieve that goal. Then you succeed, and if you're lucky you get an hour, maybe a day, of euphoria, particularly if your success was unexpected and there was a moment in which it was revealed (. . . the envelope, please). More typically, however, you don't get any euphoria. When success seems increasingly probable and some final event confirms what you already had begun to expect, the feeling is more one of relief-the pleasure of closure and release. In such circumstances, my first thought is seldom "Hooray! Fantastic!"; it is "Okay, what do I have to do now?"
 
@@ -297,7 +300,7 @@ The elephant works the same way: It feels pleasure whenever it takes a step in t
 
 We can call this "the progress principle": Pleasure comes more from making progress toward goals than from achieving them.
 
-###The Adaptation Principle
+### The Adaptation Principle
 
 If I gave you ten seconds to name the very best and very worst things that could ever happen to you, you might well come up with these: winning a 20-million-dollar lottery jackpot and becoming paralyzed from the neck down.
 
@@ -309,7 +312,7 @@ When we combine the adaptation principle with the discovery that people's averag
 
 If this idea is correct, then we are all stuck on what has been called the "hedonic treadmill." On an exercise treadmill you can increase the speed all you want, but you stay in the same place. In life, you can work as hard as you want, and accumulate all the riches, fruit trees, and concubines you want, but you can't get ahead. Because you can't change your "natural and usual state of tranquility," the riches you accumulate will just raise your expectations and leave you no better off than you were before. Yet, not realizing the futility of our efforts, we continue to strive, all the while doing things that help us win at the game of life. Always wanting more than we have, we run and run and run, like hamsters on a wheel.
 
-###An Early Happiness Hypothesis
+### An Early Happiness Hypothesis
 
 Buddha, Epictetus, and many other sages saw the futility of the rat race and urged people to quit. They proposed a particular happiness hypothesis: Happiness comes from within, and it cannot be found by making the world conform to your desires.
 
@@ -323,7 +326,7 @@ White Americans are freed from many of the hassles and indignities that affect b
 
 The most widely reported conclusion, from surveys done by psychologist Ed Diener, is that within any given country, at the lowest end of the income scale money does buy happiness: People who worry every day about paying for food and shelter report significantly less well-being than those who don't. But once you are freed from basic needs and have entered the middle class, the relationship between wealth and happiness becomes smaller. The rich are happier on average than the middle class, but only by a little, and part of this relationship is reverse correlation: Happy people grow rich faster because, as in the marriage market, they are more appealing to others (such as bosses), and also because their frequent positive emotions help them to commit to projects, to work hard, and to invest in their futures. Wealth itself has only a small direct effect on happiness because it so effectively speeds up the hedonic treadmill.
 
-###The Happiness Formula
+### The Happiness Formula
 
 In the 1990s, the two big findings of happiness research (strong relation to genes, weak relation to environment) hit the psychological community hard, because they applied not just to happiness but to most aspects of personality.
 
@@ -337,24 +340,24 @@ The level of happiness that you actually experience (H) is determined by your bi
 
 It turns out that there really are some external conditions (C) that matter. There are some changes you can make in your life that are not fully subject to the adaptation principle, and that might make you lastingly happier. It may be worth striving to achieve them.
 
-####Noise. 
+### #Noise. 
 Research shows that people who must adapt to new and chronic sources of noise (such as when a new highway is built) never fully adapt, and even studies that find some adaptation still find evidence of impairment on cognitive tasks. Noise, especially noise that is variable or intermittent, interferes with concentration and increases stress. It's worth striving to remove sources of noise in your life.
 
-####Commuting. 
+### #Commuting. 
 Many people choose to move farther away from their jobs in search of a larger house. But although people quickly adapt to having more space, they don't fully adapt to the longer commute, particularly if it involves driving in heavy traffic. Even after years of commuting, those whose commutes are traffic-filled still arrive at work with higher levels of stress hormones. (Driving under ideal conditions is, however, often enjoyable and relaxing.) It's worth striving to improve your commute.
 
-####Lack of control. 
+### #Lack of control. 
 One of the active ingredients of noise and traffic, the aspect that helps them get under your skin, is that you can't control them. Changing an institution's environment to increase the sense of control among its workers, students, patients, or other users was one of the most effective possible ways to increase their sense of engagement, energy, and happiness.
 
-####Shame. 
+### #Shame. 
 Overall, attractive people are not happier than unattractive ones. Yet, surprisingly, some improvements in a person's appearance do lead to lasting increases in happiness. People who undergo plastic surgery report (on average) high levels of satisfaction with the process, and they even report increases in the quality of their lives and decreases in psychiatric symptoms (such as depression and anxiety) in the years after the operation.
 
-####Relationships. 
+### #Relationships. 
 The condition that is usually said to trump all others in importance is the strength and number of a person's relationships. Good relationships make people happy, and happy people enjoy more and better relationships than unhappy people.
 
 There are many other ways in which you can increase your happiness by getting the conditions of your life right, particularly in relationships, work, and the degree of control you have over stressors. So in the happiness formula, C is real and some externals matter. Some things are worth striving for, and positive psychology can help identify them.
 
-###Finding Flow
+### Finding Flow
 
 Not all action, however, will work. Chasing after wealth and prestige, for example, will usually backfire. People who report the greatest interest in attaining money, fame, or beauty are consistently found to be less happy, and even less healthy, than those who pursue less materialistic goals. So what is the right kind of activity? What is V in the happiness formula?
 
@@ -372,7 +375,7 @@ One reason for the widespread philosophical wariness of sensual pleasure is that
 
 So V (voluntary activity) is real, and it's not just about detachment. You can increase your happiness if you use your strengths, particularly in the service of strengthening connections-helping friends, expressing gratitude to benefactors.
 
-###Misguided Pursuits
+### Misguided Pursuits
 
 In his more recent book, Luxury Fever, Frank used the same approach to understand another kind of irrationality: the vigor with which people pursue many goals that work against their own happiness. Frank wants to know why people are so devoted to spending money on luxuries and other goods, to which they adapt completely, rather than on things that would make them lastingly happier. People would be happier, and in the long run wealthier, if they bought basic, functional appliances, automobiles, and wristwatches, and invested the money they saved for future consumption.
 
@@ -382,13 +385,13 @@ Inconspicuous consumption, on the other hand, refers to goods and activities tha
 
 Stop trying to keep up with the Joneses. Stop wasting your money on conspicuous consumption. As a first step, work less, earn less, accumulate less, and "consume" more family time, vacations, and other enjoyable activities.
 
-###The Happiness Hypothesis Reconsidered
+### The Happiness Hypothesis Reconsidered
 
 Many Western thinkers have looked at the same afflictions as Buddha-sickness, aging, and mortality-and come to a very different conclusion from his: Through passionate attachments to people, goals, and pleasures, life must be lived to the fullest. I once heard a talk by the philosopher Robert Solomon, who directly challenged the philosophy of nonattachment as an affront to human nature. The life of cerebral reflection and emotional indifference (apatheia) advocated by many Greek and Roman philosophers and that of calm nonstriving advocated by Buddha are lives designed to avoid passion, and a life without passion is not a human life. Yes, attachments bring pain, but they also bring our greatest joys, and there is value in the very variation that the philosophers are trying to avoid.
 
 Buddha, Lao Tzu, and other sages of the East discovered a path to peace and tranquility, the path of letting go. They told us how to follow the path using meditation and stillness. Millions of people in the West have followed, and although few, if any, have reached Nirvana, many have found some degree of peace, happiness, and spiritual growth. So I do not mean to question the value or relevance of Buddhism in the modern world, or the importance of working on yourself in an effort to find happiness. Rather, I would like to suggest that the happiness hypothesis be extended-for now-into a yin-yang formulation: Happiness comes from within, and happiness comes from without.
 
-##Love and Attachments
+## Love and Attachments
 
 > [quote]No one can live happily who has regard to himself alone and transforms everything into a question of his own utility; you must live for your neighbour, if you would live for yourself. -SENECA[/quote]
 
@@ -396,7 +399,7 @@ Buddha, Lao Tzu, and other sages of the East discovered a path to peace and tran
 
 The heroes of this story are two psychologists who rejected the central tenets of their training: Harry Harlow and John Bowlby. These two men knew that something was missing in behaviorism and in psychoanalysis, respectively. Against great odds they changed their fields, they humanized the treatment of children, and they made it possible for science to greatly improve upon the wisdom of the ancients.
 
-###Love Conquers Fears
+### Love Conquers Fears
 
 Bowlby's grand synthesis is called attachment theory. It borrows from the science of cybernetics-the study of how mechanical and biological systems can regulate themselves to achieve preset goals while the environment around and inside them changes. Bowlby's first metaphor was the simplest cybernetic system of all-a thermostat that turns on a heater when the temperature drops below a set point.
 
@@ -417,11 +420,11 @@ Once you think about it, the similarities between romantic relationships and par
 
 When oxytocin floods the brain (male or female) while two people are in skin-to-skin contact, the effect is soothing and calming, and it strengthens the bond between them. For adults, the biggest rush of oxytocin-other than giving birth and nursing-comes from sex. Sexual activity, especially if it includes cuddling, extended touching, and orgasm, turns on many of the same circuits that are used to bond infants and parents. It's no wonder that childhood attachment styles persist in adulthood: The whole attachment system persists.
 
-###Love and the Swelled Head
+### Love and the Swelled Head
 
 Adult love relationships are therefore built out of two ancient and interlocking systems: an attachment system that bonds child to mother and a caregiving system that bonds mother to child. The "mating system" is completely separate from the other two systems, and it involves distinctive brain areas and hormones.
 
-###The Differences between Passionate and Companionate Love
+### The Differences between Passionate and Companionate Love
 
 Take one ancient attachment system, mix with an equal measureof caregiving system, throw in a modified mating system and voila, that's romantic love.
 
@@ -441,7 +444,7 @@ But sometimes breaking up is premature, because if the lovers had stuck it out, 
 
 If we change the time scale from six months to sixty years, as in the next figure, it is passionate love that seems trivial-a flash in the pan-while companionate love can last a lifetime.
 
-###Why Do Philosophers Hate Love?
+### Why Do Philosophers Hate Love?
 
 If you are in passionate love and want to celebrate your passion, read poetry. If your ardor has calmed and you want to understand your evolving relationship, read psychology. But if you have just ended a relationship and would like to believe you are better off without love, read philosophy.
 
@@ -453,7 +456,7 @@ A second motivation is the fear of death. The extensive regulation of sex in man
 
 If this is true, if the sages have a variety of unstated reasons for warning us away from passionate love and attachments of many kinds, perhaps we should be selective in heeding their advice. Perhaps we need to look at our own lives, lived in a world very different from theirs, and also at the evidence about whether attachments are good or bad for us.
 
-###Freedom Can Be Dangerous to Your Health
+### Freedom Can Be Dangerous to Your Health
 
 In the late nineteenth century, one of the founders of sociology, Emile Durkheim, performed a scholarly miracle. He gathered data from across Europe to study the factors that affect the suicide rate. His findings can be summarized in one word: constraints. No matter how he parsed the data, people who had fewer social constraints, bonds, and obligations were more likely to kill themselves. Durkheim concluded that people need obligations and constraints to provide structure and meaning to their lives:
 
@@ -463,7 +466,7 @@ An ideology of extreme personal freedom can be dangerous because it encourages p
 
 John Donne was right: No man, woman, or child is an island. Aristophanes was right: We need others to complete us. We are an ultrasocial species, full of emotions finely tuned for loving, befriending, helping, sharing, and otherwise intertwining our lives with others. Attachments and relationships can bring us pain: As a character in Jean-Paul Sartre's play No Exit said, "Hell is other people." But so is heaven.
 
-##The Adversity Hypothesis
+## The Adversity Hypothesis
 
 > [quote]What doesn't kill me makes me stronger. -NIETSZCHE[/quote]
 
@@ -471,7 +474,7 @@ The "adversity hypothesis," which says that people need adversity, setbacks, and
 
 Fifty years of research on stress shows that stressors are generally bad for people, contributing to depression, anxiety disorders, and heart disease. So let's be cautious about accepting the adversity hypothesis.
 
-###Post Traumatic Growth
+### Post Traumatic Growth
 
 For decades, research in health psychology focused on stress and its damaging effects. A major concern in this research literature has always been resilience-the ways people cope with adversity, fend off damage, and "bounce back" to normal functioning. But it's only in the last fifteen years that researchers have gone beyond resilience and begun to focus on the benefits of severe stress. These benefits are sometimes referred to collectively as "posttraumatic growth," in direct contrast to posttraumatic stress disorder.
 
@@ -485,7 +488,7 @@ The second class of benefit concerns relationships. Adversity is a filter. When 
 
 This change in ways of relating points to the third common benefit: Trauma changes priorities and philosophies toward the present ("Live each day to the fullest") and toward other people.
 
-###The Adversity Hypothesis Versions
+### The Adversity Hypothesis Versions
 
 The adversity hypothesis has a weak and a strong version. In the weak version, adversity can lead to growth, strength, joy, and self-improvement, by the three mechanisms of posttraumatic growth described above. The weak version is well-supported by research, but it has few clear implications for how we should live our lives. The strong version of the hypothesis is more unsettling: It states that people must endure adversity to grow, and that the highest levels of growth and development are only open to those who have faced and overcome great adversity. If the strong version of the hypothesis is valid, it has profound implications for how we should live our lives and structure our societies. It means that we should take more chances and suffer more defeats.
 
@@ -507,7 +510,7 @@ The psychologists Ken Sheldon and Tim Kasser have found that people who are ment
 
 When people report having grown after coping with adversity, they could be trying to describe a new sense of inner coherence. This coherence might not be visible to one's friends, but it feels like growth, strength, maturity, and wisdom from the inside.
 
-###How to Benefit from Adversity
+### How to Benefit from Adversity
 
 Psychologists have devoted a great deal of effort to figuring out who benefits from trauma and who is crushed. The answer compounds the already great unfairness of life: Optimists are more likely to benefit than pessimists. Optimists are, for the most part, people who won the cortical lottery: They have a high happiness setpoint, they habitually look on the bright side, and they easily find silver linings. Life has a way of making the rich get richer and the happy get happier.
 
@@ -519,11 +522,11 @@ The second step is to cherish and build your social support network. Having one 
 
 And finally, no matter how well or poorly prepared you are when trouble strikes, at some point in the months afterwards, pull out a piece of paper and start writing. Write about what happened, how you feel about it, and why you feel that way. Before you conclude your last session, be sure you have done your best to answer these two questions: Why did this happen? What good might I derive from it?
 
-###The Limits of Adversity
+### The Limits of Adversity
 
 There is, however, a time limit on first adversity. Elder says that life starts to "crystallize" by the late twenties. Even young men who had not been doing well before serving in World War II often turned their lives around afterward, but people who faced their first real life test after the age of thirty (for example, combat in that war, or financial ruin in the Great Depression) were less resilient and less likely to grow from their experiences. So adversity may be most beneficial for people in their late teens and into their twenties.
 
-###The Growth of Wisdom
+### The Growth of Wisdom
 
 Marcel Proust said:
 
@@ -535,7 +538,7 @@ Posttraumatic growth usually involves, therefore, the growth of wisdom.
 
 The strong version of the adversity hypothesis might be true, but only if we add caveats: For adversity to be maximally beneficial, it should happen at the right time (young adulthood), to the right people (those with the social and psychological resources to rise to challenges and find benefits), and to the right degree (not so severe as to cause PTSD).
 
-##The Virtue Hypothesis
+## The Virtue Hypothesis
 
 > [quote]Set your heart on doing good. Do it over and over again, and you will be filled with joy. A fool is happy until his mischief turns against him. And a good man may suffer until his goodness flowers. -BUDDHA[/quote]
 
@@ -543,7 +546,7 @@ The "virtue hypothesis," is the same claim made by Epicurus and the Buddha in th
 
 Perhaps the virtue hypothesis will turn out to be true only in a cynical, Machiavellian way: Cultivating the appearance of virtue will make you successful, and therefore happy, regardless of your true character.
 
-###The Virtues Of The Ancients
+### The Virtues Of The Ancients
 
 Every culture is concerned about the moral development of its children, and in every culture that left us more than a few pages of writing, we find texts that reveal its approach to morality. Specific rules and prohibitions vary, but the broad outlines of these approaches have a lot in common. Most cultures wrote about virtues that should be cultivated, and many of those virtues were and still are valued across most cultures (for example, honesty, justice, courage, benevolence, selfestraint, and respect for authority). Most approaches then specified actions that were good and bad with respect to those virtues. Most approaches were practical, striving to inculcate virtues that would benefit the person who cultivates them.
 
@@ -553,7 +556,7 @@ A third feature of many ancient texts is that they emphasize practice and habit 
 
 > [quote]Men become builders by building houses, and harpists by playing the harp. Similarly, we grow just by the practice of just actions, self-controlled by exercising our self-control, and courageous by performing acts of courage.[/quote]
 
-###The Virtues Of Positive Psychology
+### The Virtues Of Positive Psychology
 
 In 1998, Martin Seligman founded positive psychology when he asserted that psychology had lost its way. Psychology had become obsessed with pathology and the dark side of human nature, blind to all that was good and noble in people.
 
@@ -600,7 +603,7 @@ The genius of Peterson and Seligman's classification is to get the conversation 
 
 Virtue sounds like hard work, and often is. But when virtues are re-conceived as excellences, each of which can be achieved by the practice of several strengths of character, and when the practice of these strengths is often intrinsically rewarding, suddenly the work sounds more like Csikszentmihalyi's flow and less like toil. It's work that-like Seligman's description of gratifications-engages you fully, draws on your strengths, and allows you to lose self-consciousness and immerse yourself in what you are doing.
 
-###The Future Of Virtue
+### The Future Of Virtue
 
 Should we in the West try to return to a more virtue-based morality?
 
@@ -614,13 +617,13 @@ Being neither a sociologist nor an expert in education policy, I will not try to
 
 Given how easy it is to divide people into hostile groups based on trivial differences, I wondered whether celebrating diversity might also encourage division, whereas celebrating commonality would help people form cohesive groups and communities. I quickly realized that there are two main kinds of diversity-demographic and moral. Demographic diversity is about socio-demographic categories such as race, ethnicity, sex, sexual orientation, age, and handicapped status. Calling for demographic diversity is in large measure calling for justice, for the inclusion of previously excluded groups. Moral diversity, on the other hand, is essentially what Durkheim described as anomie: a lack of consensus on moral norms and values. Once you make this distinction, you see that nobody can coherently even want moral diversity. If you are pro-choice on the issue of abortion, would you prefer that there be a wide variety of opinions and no dominant one? Or would you prefer that everyone agree with you and the laws of the land reflect that agreement? If you prefer diversity on an issue, the issue is not a moral issue for you; it is a matter of personal taste.
 
-##The Divinity Dimension
+## The Divinity Dimension
 
 Imagine yourself happily moving around your two-dimensional social world, a flat land where the X axis is closeness and the Y axis is hierarchy (see figure 9.1). Then one day, you see a person do something extraordinary, or you have an overwhelming experience of natural beauty, and you feel lifted "up." But it's not the "up" of hierarchy, it's some other kind of elevation.
 
 My claim is that the human mind perceives a third dimension, a specifically moral dimension that I will call "divinity." My research on the moral emotions has led me to conclude that the human mind simply does perceive divinity and sacredness, whether or not God exists.
 
-###The Ethic Of Divinity
+### The Ethic Of Divinity
 
 After graduate school, I spent two years working with Richard Shweder, a psychological anthropologist at the University of Chicago who is the leading thinker in the field of cultural psychology. Shweder does much of his research in the Indian city of Bhubaneswar, in the state of Orissa, on the Bay of Bengal.
 
@@ -628,7 +631,7 @@ Shweder's research on morality 14 in Bhubaneswar and elsewhere shows that when p
 
 Shortly after moving to the University of Virginia in 1995, I was writing yet another article about how social disgust is triggered when we see people moving "down" on the vertical dimension of divinity. Suddenly it occurred to me that I had never really thought about the emotional reaction to seeing people move "up." I had referred in passing to the feeling of being "uplifted," but had never even wondered whether "uplift" is a real, honest-to-goodness emotion.
 
-###The Causes of Movement to the Third Dimension
+### The Causes of Movement to the Third Dimension
 
 Virtue is not the only cause of movement on the third dimension. The vastness and beauty of nature similarly stirs the soul.
 
@@ -651,15 +654,15 @@ Leary's analysis shows why the self is a problem for all major religions: The se
 
 And third, following a spiritual path is invariably hard work, requiring years of meditation, prayer, self-control, and sometimes self-denial. In a sense, the self is Satan, or, at least, Satan's portal. For all these reasons, the self is a problem for the ethic of divinity. The big greedy self is like a brick holding down the soul.
 
-###The Effect of the Flattening of Life
+### The Effect of the Flattening of Life
 
 Although I have begun to see the richness that divinity adds to human experience, I do not entirely lament the "flattening" of life in the West over the last few hundred years. An unfortunate tendency of three-dimensional societies is that they often include one or more groups that get pushed down on the third dimension and then treated badly, or worse. Look at the conditions of "untouchables" in India until recently, or at the plight of Jews in medieval Europe and in purity-obsessed Nazi Germany, or at the humiliation of African Americans in the segregated South. The American religious right now seems to be trying to push homosexuals down in a similar way. Liberalism and the ethic of autonomy are great protectors against such injustices. I believe it is dangerous for the ethic of divinity to supersede the ethic of autonomy in the governance of a diverse modern democracy. However, I also believe that life in a society that entirely ignored the ethic of divinity would be ugly and unsatisfying.
 
-###Why Modern Philosophy Seemed Sterile
+### Why Modern Philosophy Seemed Sterile
 
 It lacked a deep understanding of human nature. The ancient philosophers were often good psychologists, as I have shown in this book, but when modern philosophy began to devote itself to the study of logic and rationality, it gradually lost interest in psychology and lost touch with the passionate, contextualized nature of human life. It is impossible to analyze "the meaning of life" in the abstract, or in general, or for some mythical and perfectly rational being. Only by knowing the kinds of beings that we actually are, with the complex mental and emotional architecture that we happen to possess, can anyone even begin to ask about what would count as a meaningful life.
 
-###The Holy Question
+### The Holy Question
 
 The question "What is the meaning of life" might be called the Holy Question, in analogy to the Holy Grail: Its pursuit is noble and everyone should want to find an answer, yet few people expect that one can be found.
 
@@ -677,7 +680,7 @@ The second sub-question is the question of purpose within life: "How ought I to 
 
 The two questions can, however, be separated. The first asks about life from the outside; it looks at people, the Earth, and the stars as objects-"Why do they all exist?"-and is properly addressed by theologians, physicists, and biologists. The second question is about life from the inside, as a subject-"How can I find a sense of meaning and purpose?"-and is properly addressed by theologians, philosophers, and psychologists. The second question is really empirical-a question of fact that can be examined by scientific means. Why do some people live lives full of zest, commitment, and meaning, but others feel that their lives are empty and pointless?
 
-###The Conditions of Human Flourishing
+### The Conditions of Human Flourishing
 
 If people are like plants, what are the conditions we need to flourish? In the happiness formula, H(appiness) = S(etpoint) + C(onditions) + V(oluntary activities), what exactly is C? The biggest part of C is love. No man, woman, or child is an island. We are ultrasocial creatures, and we can't be happy without having friends and secure attachments to other people. The second most important part of C is having and pursuing the right goals, in order to create states of flow and engagement. In the modern world, people can find goals and flow in many settings, but most people find most of their flow at work.
 
@@ -697,7 +700,7 @@ Work at its best, then, is about connection, engagement, and commitment. As the 
 
 Love and work are crucial for human happiness because, when done well, they draw us out of ourselves and into connection with people and projects beyond ourselves. Happiness comes from getting these connections right. Happiness comes not just from within, as Buddha and Epictetus supposed, or even from a combination of internal and external factors. The correct version of the happiness hypothesis, is that happiness comes from between.
 
-###Vital Engagement
+### Vital Engagement
 
 The man who found flow, Mihalyi Csikszentmihalyi, thinks big. Not content to study moments of flow (by beeping people several times a day), he wanted to know what role flow plays in life as a whole, particularly in the lives of creative people. He and his students have interviewed hundreds of successful painters, dancers, poets, novelists, physicists, biologists, and psychologists-all people who seem to have crafted lives for themselves built around a consuming passion.
 
@@ -707,7 +710,7 @@ Vital engagement does not reside in the person or in the environment; it exists 
 
 Getting the right relationship between you and your work is not entirely up to you. Some occupations come ready-made for vital engagement; others make it difficult.
 
-###Cross-Level Coherence
+### Cross-Level Coherence
 
 The word "coherence" literally means holding or sticking together, but it is usually used to refer to a system, an idea, or a worldview whose parts fit together in a consistent and efficient way.
 
@@ -715,7 +718,7 @@ Whenever a system can be analyzed at multiple levels, a special kind of coherenc
 
 Here is one of the most profound ideas to come from the ongoing synthesis: People gain a sense of meaning when their lives cohere across the three levels of their existence.
 
-###Harmony And Purpose
+### Harmony And Purpose
 
 Reading Wilson's Darwin's Cathedral is like taking a journey to Spaceland. You can look down on the vast tapestry of human cultures and see why things are woven in the way that they are. Wilson says his own private hell would be to be locked forever into a room full of people discussing the hypocrisies of religion, for example, that many religions preach love, compassion, and virtue yet sometimes cause war, hatred, and terrorism. From Wilson's higher perspective, there is no contradiction. Group selection creates interlocking genetic and cultural adaptations that enhance peace, harmony, and cooperation within the group for the express purpose of increasing the group's ability to compete with other groups. Group selection does not end conflict; it just pushes it up to the next level of social organization. Atrocities committed in the name of religion are almost always committed against out-group members, or against the most dangerous people of all: apostates (who try to leave the group) and traitors (who undermine the group).
 
@@ -723,11 +726,11 @@ A second puzzle that Wilson can solve is why mysticism, everywhere and always, i
 
 From Wilson's perspective, mystical experience is an "off" button for the self. When the self is turned off, people become just a cell in the larger body, a bee in the larger hive. It is no wonder that the after effects of mystical experience are predictable; people usually feel a stronger commitment to God or to helping others, often by bringing them to God.
 
-###The Meaning Of Life
+### The Meaning Of Life
 
 What can you do to have a good, happy, fulfilling, and meaningful life? What is the answer to the question of purpose within life? I believe the answer can be found only by understanding the kind of creature that we are, divided in the many ways we are divided. We were shaped by individual selection to be selfish creatures who struggle for resources, pleasure, and prestige, and we were shaped by group selection to be hive creatures who long to lose ourselves in something larger. We are social creatures who need love and attachments, and we are industrious creatures with needs for effectance, able to enter a state of vital engagement with our work. We are the rider and we are the elephant, and our mental health depends on the two working together, each drawing on the others' strengths. I don't believe there is an inspiring answer to the question, "What is the purpose of life?" Yet by drawing on ancient wisdom and modern science, we can find compelling answers to the question of purpose within life. The final version of the happiness hypothesis is that happiness comes from between. Happiness is not something that you can find, acquire, or achieve directly. You have to get the conditions right and then wait. Some of those conditions are within you, such as coherence among the parts and levels of your personality. Other conditions require relationships to things beyond you: Just as plants need sun, water, and good soil to thrive, people need love, work, and a connection to something larger. It is worth striving to get the right relationships between yourself and others, between yourself and your work, and between yourself and something larger than yourself. If you get these relationships right, a sense of purpose and meaning will emerge.
 
-###Where to Look for Wisdom
+### Where to Look for Wisdom
 
 An important dictum of cultural psychology is that each culture develops expertise in some aspects of human existence, but no culture can be expert in all aspects. The same goes for the two ends of the political spectrum.
 
