@@ -9,7 +9,7 @@
         <h1>{{ .Site.Title }}</h1>
 
         <h2>{{ markdownify .Site.Params.Description }}</h2>
-
+	</div>
         {{ range first 5 .Data.Pages }}
 	    <div class="item">
 
@@ -38,7 +38,7 @@
 		</div>
 	    {{ end }}
 
-    </div>
+    
 
 </main>
 
