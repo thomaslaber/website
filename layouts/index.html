@@ -10,7 +10,7 @@
 
         <h2>{{ markdownify .Site.Params.Description }}</h2>
 
-        {{ range first 10 .Data.Pages }}
+        {{ range first 5 .Data.Pages }}
 	    <div class="item">
 
 		    {{ $.Scratch.Set "link" .RelPermalink }}
