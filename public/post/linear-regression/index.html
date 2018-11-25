@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+         
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Linear Regression</title>
+        
+        <style>
+
+    html body {
+        font-family: 'Raleway', sans-serif;
+        background-color: white;
+    }
+
+    :root {
+        --accent: grey;
+        --border-width:  5px ;
+    }
+
+</style>
+
+
+<link rel="stylesheet" href="https://blissful-kilby-86aa4f.netlify.com/css/main.css">
+
+
+
+
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+
+
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/monokai-sublime.min.css"> 
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+ 
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/R.min.js"></script>  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/sql.min.js"></script> 
+
+    <script>hljs.initHighlightingOnLoad();</script>
+
+
+
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+
+<script>$(document).on('click', function() { $('.collapse').collapse('hide'); })</script>
+ <meta name="generator" content="Hugo 0.37.1" />
+        
+        <link rel="stylesheet" href="https://blissful-kilby-86aa4f.netlify.com/css/tl.css">
+        
+    </head>
+
+    
+    
+    <script type="text/javascript" async
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+    
+
+    <body>
+         
+        <nav class="navbar navbar-default navbar-fixed-top">
+
+            <div class="container">
+
+                <div class="navbar-header">
+
+                    <a class="navbar-brand visible-xs" href="#">Linear Regression</a>
+
+                    <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+
+                </div>
+
+                <div class="collapse navbar-collapse">
+
+                    
+                        <ul class="nav navbar-nav">
+                            
+                                <li><a href="/">Home</a></li>
+                            
+                                <li><a href="/post/">Posts</a></li>
+                            
+                                <li><a href="/project/">Projects</a></li>
+                            
+                                <li><a href="/book/">Books</a></li>
+                            
+                        </ul>
+                    
+
+                    
+                        <ul class="nav navbar-nav navbar-right">
+                            
+                                <li class="navbar-icon"><a href="mailto:me@example.com"><i class="fa fa-envelope-o"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://github.com/username/"><i class="fa fa-github"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://twitter.com/username/"><i class="fa fa-twitter"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://www.linkedin.com/in/username/"><i class="fa fa-linkedin"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://www.stackoverflow.com/username/"><i class="fa fa-stack-overflow"></i></a></li>
+                            
+                        </ul>
+                    
+
+                </div>
+
+            </div>
+
+        </nav>
+
+
+<main>
+
+    <div class="item">
+
+    
+    
+    
+
+    
+    
+
+    <h4><a href="/post/linear-regression/">Linear Regression</a></h4>
+    <h5>April 2, 2018</h5>
+    
+    <a href="https://blissful-kilby-86aa4f.netlify.com/tags/r"><kbd class="item-tag">R</kbd></a>
+    
+    <a href="https://blissful-kilby-86aa4f.netlify.com/tags/regression"><kbd class="item-tag">regression</kbd></a>
+    
+
+</div>
+
+
+    <br> <div class="text-justify">
+
+<p>Source <a href="https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/">https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/</a></p>
+
+<p>It is used to estimate real values (cost of houses, number of calls, total sales etc.) based on continuous variable(s). Here, we establish relationship between independent and dependent variables by fitting a best line. This best fit line is known as regression line and represented by a linear equation
+$$Y= a *X + b$$
+The best way to understand linear regression is to relive this experience of childhood. Let us say, you ask a child in fifth grade to arrange people in his class by increasing order of weight, without asking them their weights! What do you think the child will do? He / she would likely look (visually analyze) at the height and build of people and arrange them using a combination of these visible parameters. This is linear regression in real life! The child has actually figured out that height and build would be correlated to the weight by a relationship, which looks like the equation above.</p>
+
+<p>In this equation:</p>
+
+<blockquote>
+<p>Y - Dependent Variable
+   a - Slope
+   X - Independent variable
+   b - Intercept</p>
+</blockquote>
+
+<p>These coefficients a and b are derived based on minimizing the sum of squared difference of distance between data points and regression line.</p>
+
+<p>Look at the below example. Here we have identified the best fit line having linear equation
+$$y=0.2811x+13.9$$
+Now using this equation, we can find the weight, knowing the height of a person.</p>
+
+<p>Linear Regression is of mainly two types: Simple Linear Regression and Multiple Linear Regression. Simple Linear Regression is characterized by one independent variable. And, Multiple Linear Regression(as the name suggests) is characterized by multiple (more than 1) independent variables. While finding best fit line, you can fit a polynomial or curvilinear regression. And these are known as polynomial or curvilinear regression.</p>
+
+<h2 id="r-code">R Code</h2>
+
+<pre><code class="language-r">#Load Train and Test datasets
+#Identify feature and response variable(s) and values must be numeric and numpy arrays
+x_train &lt;- input_variables_values_training_datasets
+y_train &lt;- target_variables_values_training_datasets
+x_test &lt;- input_variables_values_test_datasets
+x &lt;- cbind(x_train,y_train)
+# Train the model using the training sets and check score
+linear &lt;- lm(y_train ~ ., data = x)
+summary(linear)
+#Predict Output
+predicted= predict(linear,x_test) 
+</code></pre>
+
+<h2 id="r-code-applied">R Code applied</h2>
+
+<p>Mean squared error:</p>
+
+<p>$$MSE = \displaystyle\frac{1}{n}\sum_{t=1}^{n}res_t^2$$</p>
+
+<p>Root mean squared error:</p>
+
+<p>$$RMSE = \displaystyle\sqrt{\frac{1}{n}\sum_{t=1}^{n}res_t^2}$$</p>
+
+<p>Mean absolute error:</p>
+
+<p>$$MAE = \displaystyle\frac{1}{n}\sum_{t=1}^{n}|res_t|$$</p>
+
+<p>Mean absolute percentage error:</p>
+
+<p>$$MAPE = \displaystyle\frac{100\%}{n}\sum_{t=1}^{n}\left |\frac{res_t}{y_t}\right|$$</p>
+
+<pre><code class="language-r"># install.packages(&quot;tidyverse&quot;)
+# trace(utils:::unpackPkgZip, edit=TRUE)
+library(titanic)
+library(tidyverse)
+titanic_train = titanic_train %&gt;%
+  mutate_at(.vars =  c(&quot;Sex&quot;, &quot;Survived&quot;, &quot;Pclass&quot;, &quot;Embarked&quot;),
+            .funs = as.factor)
+str(titanic_train)
+
+x_train &lt;- titanic_train
+y_train &lt;- titanic_train$Survived
+x_test &lt;- titanic_test
+x &lt;- cbind(x_train,y_train)
+
+# Train the model using the training sets and check score
+linear &lt;- lm(Survived ~ ., data = x_train)
+summary(linear)
+
+#Predict Output
+predicted = predict(linear,x_test)
+
+rmse &lt;- sqrt(mean(residuals ^ 2))
+
+
+</code></pre>
+</div>
+
+    
+    
+
+    
+
+    
+
+</main>
+
+        <footer>
+
+            <p class="copyright text-muted">&copy; All rights reserved. Powered by <a href="https://gohugo.io">Hugo</a> and <a href="https://github.com/calintat/minimal">Minimal</a></p>
+
+        </footer>
+       
+    </body>
+
+</html>
+

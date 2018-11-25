@@ -1,0 +1,11 @@
+h1 {
+    font-size: 32px !important;
+}
+
+.item {
+	text-align: left;
+}
+
+.intro {
+	transform: none !important;
+}
