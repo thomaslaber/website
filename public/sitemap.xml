@@ -3,172 +3,172 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blissful-kilby-86aa4f.netlify.com/project/project1/</loc>
+    <loc>/project/project1/</loc>
   </url>
   
   <url>
-    <loc>https://blissful-kilby-86aa4f.netlify.com/book/2018-11-20_jeff-bezos-api-mandate/</loc>
+    <loc>/book/2018-11-20_jeff-bezos-api-mandate/</loc>
     <lastmod>2018-11-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blissful-kilby-86aa4f.netlify.com/book/the-happiness-hypothesis/</loc>
+    <loc>/book/the-happiness-hypothesis/</loc>
     <lastmod>2018-11-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blissful-kilby-86aa4f.netlify.com/post/linear-regression/</loc>
+    <loc>/post/linear-regression/</loc>
     <lastmod>2018-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blissful-kilby-86aa4f.netlify.com/book/so-good-they-cant-ignore-you/</loc>
+    <loc>/book/so-good-they-cant-ignore-you/</loc>
     <lastmod>2018-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blissful-kilby-86aa4f.netlify.com/post/creating-a-new-theme/</loc>
+    <loc>/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blissful-kilby-86aa4f.netlify.com/post/goisforlovers/</loc>
+    <loc>/post/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blissful-kilby-86aa4f.netlify.com/post/hugoisforlovers/</loc>
+    <loc>/post/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blissful-kilby-86aa4f.netlify.com/post/migrate-from-jekyll/</loc>
+    <loc>/post/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blissful-kilby-86aa4f.netlify.com/tags/amazon/</loc>
+    <loc>/</loc>
     <lastmod>2018-11-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blissful-kilby-86aa4f.netlify.com/tags/anekdote/</loc>
+    <loc>/tags/amazon/</loc>
     <lastmod>2018-11-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blissful-kilby-86aa4f.netlify.com/book/</loc>
+    <loc>/tags/anekdote/</loc>
     <lastmod>2018-11-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blissful-kilby-86aa4f.netlify.com/categories/</loc>
+    <loc>/book/</loc>
+    <lastmod>2018-11-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blissful-kilby-86aa4f.netlify.com/tags/development/</loc>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blissful-kilby-86aa4f.netlify.com/tags/go/</loc>
+    <loc>/tags/go/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blissful-kilby-86aa4f.netlify.com/tags/golang/</loc>
+    <loc>/tags/golang/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blissful-kilby-86aa4f.netlify.com/tags/hugo/</loc>
+    <loc>/tags/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blissful-kilby-86aa4f.netlify.com/tags/index/</loc>
+    <loc>/tags/index/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blissful-kilby-86aa4f.netlify.com/tags/jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blissful-kilby-86aa4f.netlify.com/tags/personal-development/</loc>
-    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blissful-kilby-86aa4f.netlify.com/post/</loc>
-    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blissful-kilby-86aa4f.netlify.com/project/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blissful-kilby-86aa4f.netlify.com/tags/r/</loc>
-    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blissful-kilby-86aa4f.netlify.com/tags/regression/</loc>
-    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blissful-kilby-86aa4f.netlify.com/categories/search/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blissful-kilby-86aa4f.netlify.com/search/</loc>
-  </url>
-  
-  <url>
-    <loc>https://blissful-kilby-86aa4f.netlify.com/tags/static-site-generator/</loc>
+    <loc>/tags/jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blissful-kilby-86aa4f.netlify.com/tags/</loc>
+    <loc>/tags/personal-development/</loc>
+    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/regression/</loc>
+    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/search/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/search/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/static-site-generator/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
     <lastmod>2018-11-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blissful-kilby-86aa4f.netlify.com/tags/template/</loc>
+    <loc>/tags/template/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blissful-kilby-86aa4f.netlify.com/tags/themes/</loc>
+    <loc>/tags/themes/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blissful-kilby-86aa4f.netlify.com/</loc>
-    <lastmod>2018-11-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,13 +1,13 @@
 baseURL = "https://blissful-kilby-86aa4f.netlify.com/"
 languageCode = "en-us"
-title = "Thomas Laber"
+title = "Personal Web Archive"
 theme = "minimal"
 # disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 
 [params]
-    author = "Data Science"
-    description = "Personal website"
+    author = "Thomas Laber"
+    description = "Thomas Laber"
     githubUsername = "#thomaslaber"
     accent = "grey"
     showBorder = true

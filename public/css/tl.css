@@ -9,3 +9,7 @@ h1 {
 .intro {
 	transform: none !important;
 }
+
+.copyright {
+	display: none !important;
+}
